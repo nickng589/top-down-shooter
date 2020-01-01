@@ -1,3 +1,13 @@
+# BLINK: A top down shooter made in javafx
+Play by compiling and running TopDownShooterGame
+
+# Features
+- GUI and graphics engine made from scratch in javafx
+- 3 different types of buffs to collect
+- 6 unique guns
+- 5 different types of mobs
+- 4 different bosses
+
 # Top Down Shooter (5/22/2018) (Upgrade drops)
 - added in speed + blinkupgrade
 - if u want to change how much it upgrades, its in the BlinkUpgradeDrop and SpeedUpgradeDrop
