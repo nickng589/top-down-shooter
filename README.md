@@ -1,5 +1,10 @@
 # BLINK: A top down shooter made in javafx
 Play by compiling and running TopDownShooterGame
+On intellij use
+--module-path
+C:\Users\nickn\OneDrive\Desktop\Nicholas\fx\javafx-sdk-11.0.2\lib
+--add-modules
+javafx.controls,javafx.fxml,javafx.media
 
 # Features
 - GUI and graphics engine made from scratch in javafx
